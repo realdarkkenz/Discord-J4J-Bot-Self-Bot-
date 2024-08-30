@@ -1,6 +1,6 @@
-//CODED BY: DARK KENZ Https://discord.gg/j4jgo
-//CODED BY: DARK KENZ Https://discord.gg/j4jgo
-//CODED BY: DARK KENZ Https://discord.gg/j4jgo
+//CODED BY: DARK KENZ Https://discord.gg/j4jfast
+//CODED BY: DARK KENZ Https://discord.gg/j4jfast
+//CODED BY: DARK KENZ Https://discord.gg/j4jfast
 
 const express = require('express');
 const Discord = require('discord.js'); 
@@ -60,6 +60,6 @@ tokens.forEach(token => {
     client.login(token).catch(err => console.error(`Failed to login with token ${token}:`, err));
 });
 
-//CODED BY: DARK KENZ Https://discord.gg/j4jgo
-//CODED BY: DARK KENZ Https://discord.gg/j4jgo
-//CODED BY: DARK KENZ Https://discord.gg/j4jgo
+//CODED BY: DARK KENZ Https://discord.gg/j4jfast
+//CODED BY: DARK KENZ Https://discord.gg/j4jfast
+//CODED BY: DARK KENZ Https://discord.gg/j4jfast
